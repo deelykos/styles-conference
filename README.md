@@ -1,2 +1,2 @@
 # styles-conference
-* A web page with HTML and CSS.
+* Keeping up with my HTML and CSS skills
